@@ -1,0 +1,12 @@
+require:
+  - rubocop-thread_safety
+  - rubocop-performance
+
+inherit_mode:
+  merge:
+    - Exclude
+
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 3.2.2
+  AllowSymlinksInCacheRootDirectory: true
