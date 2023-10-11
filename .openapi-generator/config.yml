@@ -1,0 +1,8 @@
+additionalProperties:
+  gemSummary: "Client libraries for communicating with RAN 5g Core"
+  gemDescription: "This gem is automatically documented by its own code"
+  gemLicense: "MIT License"
+  gemHomepage: "https://github.com/isimluk/ran-core-5g-client"
+  gemVersion: "0.0.1"
+  gemName: "ran-core-5g-client"
+  moduleName: "Core5g"
